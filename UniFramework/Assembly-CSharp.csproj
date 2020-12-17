@@ -73,6 +73,7 @@
     <Compile Include="Assets\3rd\Smart Homing Missile\SmartMissile3D.cs" />
     <Compile Include="Assets\QFramework\Framework\1.Core\Math\ProbilityHelper.cs" />
     <Compile Include="Assets\QFramework\Framework\3.UIKit\IHasEventSystemExtension.cs" />
+    <Compile Include="Assets\QFrameworkLearn\HelloQF.cs" />
     <Compile Include="Assets\UGUI\LButton.cs" />
     <Compile Include="Assets\UGUI\ToggleTEST.cs" />
     <None Include="Assets\3rd\Smart Homing Missile\ReadMe.txt" />
